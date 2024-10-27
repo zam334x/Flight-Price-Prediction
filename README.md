@@ -110,5 +110,4 @@ After tuning, the performance improved for most models:
 - Deploy the model using a web application (e.g., Flask, Django) for real-time prediction.
 
 ## Contributors
-- [Ali Zameeruddin Khan](https://github.com/zam334x)
-- [LinkedIn](https://www.linkedin.com/in/alizameer2122)
+- [Ali Zameeruddin Khan](https://github.com/zam334x) [LinkedIn](https://www.linkedin.com/in/alizameer2122)
