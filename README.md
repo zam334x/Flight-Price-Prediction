@@ -19,7 +19,7 @@ This project aims to predict flight ticket prices using machine learning models 
 - [Contributors](#contributors)
 
 ## Dataset
-The dataset consists of flight booking data obtained from the "Ease My Trip" website. It contains 300,261 records and 11 features. The dataset includes the following features:
+The dataset consists of flight booking data obtained from the "Ease My Trip" website. It contains 300,261 records and 11 features. The Dataset is cleaned. Originally the dataset is of 2 parts "business" and "economy". I have also uploaded to the repository just for reference. The dataset includes the following features:
 - `Airline`: Name of the airline (categorical)
 - `Flight`: Flight code (categorical)
 - `Source City`: Departure city (categorical)
