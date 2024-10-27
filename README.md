@@ -2,7 +2,7 @@
 
 ## Overview
 This project aims to predict flight ticket prices using machine learning models based on data obtained from the "Ease My Trip" website. Various models were trained, tuned, and evaluated to achieve the best performance.
-** This is just an overview of the dataset and insights obtained. Please view the "Flight_price_predictive_analytics.ipynb" file to see the full code along with EDA and Visualizations.**
+- ** This is just an overview of the dataset and insights obtained. Please view the "Flight_price_predictive_analytics.ipynb" file to see the full code along with EDA and Visualizations.**
 
 ## Table of Contents
 - [Overview](#overview)
