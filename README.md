@@ -2,6 +2,7 @@
 
 ## Overview
 This project aims to predict flight ticket prices using machine learning models based on data obtained from the "Ease My Trip" website. Various models were trained, tuned, and evaluated to achieve the best performance.
+** This is just an overview of the dataset and insights obtained. Please view the "Flight_price_predictive_analytics.ipynb" file to see the full code along with EDA and Visualizations.**
 
 ## Table of Contents
 - [Overview](#overview)
@@ -91,7 +92,13 @@ After tuning, the performance improved for most models:
 - Ticket prices increase as the departure date approaches, and business class tickets are consistently more expensive.
 - The model can be used to help passengers make informed decisions about when to book flights.
 
+## Residual Plots
 ![Residual Plots for Tuned Models](Residual_Plots.png)
+- **RandomForest** shows the best performance, with residuals more randomly distributed and concentrated around zero.
+- Linear models (LinearRegression, Ridge) are unable to capture non-linearity, as indicated by distinct patterns in residuals.
+- Boosting models (GradientBoosting, XGBoost, AdaBoost) perform well, but RandomForest still has a slight edge in residual distribution.
+- Ideal Residual Plot: For a perfect model, residuals should be randomly scattered around the zero line without any discernible patterns.
+**Overall, these plots confirm that RandomForest is the best model in terms of capturing the underlying patterns of the data, with lower residuals and better fit.**
 
 ## Future Improvements
 - Implement more advanced hyperparameter tuning techniques like **RandomizedSearchCV** or **Bayesian Optimization**.
