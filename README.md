@@ -91,6 +91,8 @@ After tuning, the performance improved for most models:
 - Ticket prices increase as the departure date approaches, and business class tickets are consistently more expensive.
 - The model can be used to help passengers make informed decisions about when to book flights.
 
+![Residual Plots for Tuned Models](main/residual_plot.png)
+
 ## Future Improvements
 - Implement more advanced hyperparameter tuning techniques like **RandomizedSearchCV** or **Bayesian Optimization**.
 - Integrate additional features like **seasonality** or **day of the week** to improve model accuracy.
