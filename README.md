@@ -93,6 +93,9 @@ After tuning, the performance improved for most models:
 - Ticket prices increase as the departure date approaches, and business class tickets are consistently more expensive.
 - The model can be used to help passengers make informed decisions about when to book flights.
 
+## Best Models based on high R2 Score and Low MAPE% Score!
+![Scores](scores.png)
+
 ## Residual Plots
 ![Residual Plots for Tuned Models](Residual_Plots.png)
 - **RandomForest** shows the best performance, with residuals more randomly distributed and concentrated around zero.
