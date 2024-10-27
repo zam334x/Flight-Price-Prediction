@@ -3,6 +3,7 @@
 ## Overview
 This project aims to predict flight ticket prices using machine learning models based on data obtained from the "Ease My Trip" website. Various models were trained, tuned, and evaluated to achieve the best performance.
 - ** This is just an overview of the dataset and insights obtained. Please view the "Flight_price_predictive_analytics.ipynb" file to see the full code along with EDA and Visualizations.**
+- ** Initially, this project utilized interactive visualizations created with **Plotly** for data exploration and analysis. Plotly charts offer dynamic and interactive features, such as zooming, panning, and tooltips, which enhance exploratory data analysis. However, **GitHub README files and PDF exports** do not support interactive elements, which means these visualizations would not render properly in these formats. So, these images also have an additional code to display static images.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -107,3 +108,4 @@ After tuning, the performance improved for most models:
 
 ## Contributors
 - [Ali Zameeruddin Khan](https://github.com/zam334x)
+- [LinkedIn](https://www.linkedin.com/in/alizameer2122)
